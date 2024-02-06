@@ -1,4 +1,4 @@
-![logo](https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg)
+![logo](https://img.lovepik.com/photo/48013/0627.jpg_wh860.jpg)
 <h1 align="center">Hi , I'm Sanju Patel</h1>
 <h3 align="center">MERN full stack developer</h3>
 <div align="center">
