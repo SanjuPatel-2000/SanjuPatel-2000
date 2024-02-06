@@ -1,4 +1,4 @@
-![logo](https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg)
+![logo](https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg)
 <h1 align="center">Hi , I'm Sanju Patel</h1>
 <h3 align="center">MERN full stack developer</h3>
 <div align="center">
