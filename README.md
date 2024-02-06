@@ -1,6 +1,6 @@
 ![logo](https://img.lovepik.com/photo/48013/0627.jpg_wh860.jpg)
 <h1 align="center">Hi , I'm Sanju Patel</h1>
-<h3 align="center">MERN full stack developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <div align="center">
   <h3 >Contact:</h3>
    sanju1982000@gmail.com 
